@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Acknowledgements](acknowledgements.md)
-* [Quick Start](quick_start.md)
+* [Introduction](quick_start.md)
 * [Authentication](authentication.md)
 * [Data Management](data_management/README.md)
    * [Create a Bucket and Upload a File](data_management/create_a_bucket_and_upload_a_file.md)
