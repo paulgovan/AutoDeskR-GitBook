@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Acknowledgements](acknowledgements.md)
-* [AutoDeskR: An R Interface to the AutoDesk APIs](autodeskr_an_r_interface_to_the_autodesk_apis.md)
+* [Introduction](autodeskr_an_r_interface_to_the_autodesk_apis.md)
 * [Quick Start](quick_start.md)
 * [Authentication](authentication.md)
 * [Data Management](data_management/README.md)
