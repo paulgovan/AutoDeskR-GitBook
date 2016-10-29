@@ -1,6 +1,7 @@
 # Summary
 
 * [Preface](README.md)
+* [Acknowledgements](acknowledgements.md)
 * [AutoDeskR: An R Interface to the AutoDesk APIs](autodeskr_an_r_interface_to_the_autodesk_apis.md)
 * [The AutoDeskR Package](the_autodeskr_package.md)
 * [Quick Start](quick_start.md)
@@ -14,5 +15,4 @@
    * [Prepare a File for the Viewer](model_derivative/prepare_a_file_for_the_viewer.md)
    * [Extract Data from a File](model_derivative/extract_data_from_a_file.md)
 * [Viewer](viewer.md)
-* [Acknowledgements](acknowledgements.md)
 
