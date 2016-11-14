@@ -6,6 +6,7 @@ The Data Management API provides a way to store and access data on the platform.
 resp <- getToken(id = Sys.getenv("client_id"), secret = Sys.getenv("client_secret"), 
             scope = "bucket:create bucket:read data:write")
 myToken <- resp$content$access_token
+
 ```
 
 Then use the `makeBucket()` function to create a bucket, where `bucket` is a name for the bucket.
