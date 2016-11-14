@@ -7,7 +7,7 @@ AutoDeskR {{ "AutoDeskR" | cite }} is an R package that provides an interface to
 * Model Derivative API for translating design files into different formats, sending them to the viewer app, and extracting model data.
 * Viewer for rendering 2D and 3D models.
 
-See [developer.autodesk.com](developer.autodesk.com) for more information.
+See [developer.autodesk.com](https://developer.autodesk.com) for more information.
 
 ## Motivation
 
