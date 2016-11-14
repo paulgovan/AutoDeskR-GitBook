@@ -7,6 +7,10 @@
     "pluginsConfig": {
         "bibtex": {
             "bibliography": "bibliography.bib"
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
         }
     }
 }
