@@ -1,2 +1,3 @@
 # References
 
+{% references %} {% endreferences %}
