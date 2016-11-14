@@ -9,4 +9,6 @@ To get an access token, use the `getToken()` function, which returns an object w
 ```
 resp <- getToken(id = Sys.getenv("client_id"), secret = Sys.getenv("client_secret"))
 myToken <- resp$content$access_token
+myToken
+[1] "422vSsW9XMizreWsq0OQX8tgwCpC"
 ```
