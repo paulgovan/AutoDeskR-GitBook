@@ -2,7 +2,7 @@
     "plugins": [
         "autocover",
         "bibtex",
-        "theme-ncbi"
+        "-theme-ncbi"
     ],
     "pluginsConfig": {
         "bibtex": {
