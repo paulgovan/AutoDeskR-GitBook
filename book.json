@@ -2,13 +2,13 @@
     "plugins": [
         "autocover",
         "bibtex",
-        "theme-default"
+        "-theme-default"
     ],
     "pluginsConfig": {
         "bibtex": {
             "bibliography": "bibliography.bib"
         },
-        "theme-default": {
+        "-theme-default": {
             "styles": "",
             "showLevel": true
         }
