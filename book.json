@@ -1,16 +1,11 @@
 {
     "plugins": [
         "autocover",
-        "bibtex",
-        "-theme-default"
+        "bibtex"
     ],
     "pluginsConfig": {
         "bibtex": {
             "bibliography": "bibliography.bib"
-        },
-        "-theme-default": {
-            "styles": "",
-            "showLevel": true
         }
     }
 }
