@@ -195,8 +195,6 @@ $content$derivatives[[1]]$children[[1]]$children[[4]]$urn
 [1] "urn:adsk.viewing:fs.file:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6Y3JhenlidWNrZXQvYWVyaWFsLmR3Zw/output/5262c71a-bc16-086f-95be-f582ae8d2065_f2d/primaryGraphics.f2d"
 
 
-
-
 $content$derivatives[[1]]$children[[2]]
 $content$derivatives[[1]]$children[[2]]$guid
 [1] "149d819a-f59a-9de3-b42d-15f1269b41df"
@@ -297,7 +295,6 @@ $content$derivatives[[1]]$children[[2]]$children[[2]]$camera[[13]]
 [1] 0
 
 
-
 $content$derivatives[[1]]$children[[2]]$children[[3]]
 $content$derivatives[[1]]$children[[2]]$children[[3]]$guid
 [1] "3c9d59fb-3147-a570-4103-1a766ac78d9b"
@@ -350,7 +347,6 @@ $content$derivatives[[1]]$children[[2]]$children[[3]]$camera[[12]]
 
 $content$derivatives[[1]]$children[[2]]$children[[3]]$camera[[13]]
 [1] 0
-
 
 
 $content$derivatives[[1]]$children[[2]]$children[[4]]
@@ -426,12 +422,6 @@ $content$derivatives[[1]]$children[[2]]$children[[6]]$mime
 
 $content$derivatives[[1]]$children[[2]]$children[[6]]$role
 [1] "thumbnail"
-
-
-
-
-
-
 
 
 $path
