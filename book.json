@@ -1,7 +1,6 @@
 {
     "plugins": [
         "autocover",
-        "-theme-ncbi",
         "bibtex"
     ],
     "pluginsConfig": {}
