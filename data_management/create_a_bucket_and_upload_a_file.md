@@ -1,6 +1,6 @@
 ## Create a Bucket and Upload a File {#create-a-bucket-and-upload-a-file}
 
-The Data Management API provides a way to store and access data on the platform. Model files are hosted in the cloud and organized into buckets. To create a bucket, first get a token with the `bucket:create`, `bucket:read`, and `data:write` scopes.
+To create a bucket, first get a token with the `bucket:create`, `bucket:read`, and `data:write` scopes.
 
 ```
 resp <- getToken(id = Sys.getenv("client_id"), secret = Sys.getenv("client_secret"), 
