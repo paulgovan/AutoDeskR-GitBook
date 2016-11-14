@@ -2,7 +2,7 @@
     "plugins": [
         "autocover",
         "bibtex",
-        "theme-brl"
+        "-theme-brl"
     ],
     "pluginsConfig": {
         "bibtex": {
