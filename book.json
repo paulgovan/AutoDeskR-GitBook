@@ -1,11 +1,12 @@
 {
     "plugins": [
         "autocover",
-        "bibtex"
+        "bibtex",
+        "theme-ncbi"
     ],
     "pluginsConfig": {
-      "bibtex": {
-        "bibliography": "bibliography.bib"
-      }
+        "bibtex": {
+            "bibliography": "bibliography.bib"
+        }
     }
 }
