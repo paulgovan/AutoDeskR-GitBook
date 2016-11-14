@@ -439,4 +439,4 @@ attr(,"class")
 [1] "checkFile"
 ```
 
-Finally, embed the urn of the file in the viewer, which is described in the **Viewer** section.
+Finally, embed the urn of the file in the viewer, which is described in the [Viewer](https://paulgovan.gitbooks.io/autodeskr/content/viewer.html) section.
