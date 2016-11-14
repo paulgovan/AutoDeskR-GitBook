@@ -3,5 +3,9 @@
         "autocover",
         "bibtex"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+      "bibtex": {
+        "bibliography": "bibliography.bib"
+      }
+    }
 }
