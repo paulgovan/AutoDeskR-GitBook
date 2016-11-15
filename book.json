@@ -1,8 +1,7 @@
 {
     "plugins": [
         "autocover",
-        "bibtex",
-        "theme-official"
+        "bibtex"
     ],
     "pluginsConfig": {
         "bibtex": {
