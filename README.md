@@ -1,4 +1,4 @@
-# AutoDeskR: An R Interface to the AutoDesk APIs {#autodeskr-an-r-interface-to-the-autodesk-apis}
+# AutoDeskR: An R Interface to the AutoDesk API Platform {#autodeskr-an-r-interface-to-the-autodesk-api-platform}
 
 #### _Paul Govan_ {#paul-govan}
 
