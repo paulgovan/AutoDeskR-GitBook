@@ -8,5 +8,5 @@
 
 ## ![](https://github.com/paulgovan/AutoDeskR/blob/master/inst/images/basicSample.png?raw=true)
 
-This is the [\[gitbook\]\(gitbook.com\)](/gitbook.com) for the AutoDeskR package. Visit the project site at [http://paulgovan.github.io/AutoDeskR/.](http://paulgovan.github.io/AutoDeskR/)
+This is the gitbook for the AutoDeskR package. Visit the project site at [http://paulgovan.github.io/AutoDeskR/.](http://paulgovan.github.io/AutoDeskR/)
 
