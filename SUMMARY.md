@@ -14,5 +14,4 @@
   * [Extract Data from a File](model_derivative/extract_data_from_a_file.md)
 * [Viewer](viewer.md)
 * [Common Issues](common-issues.md)
-* Common Issues
 
