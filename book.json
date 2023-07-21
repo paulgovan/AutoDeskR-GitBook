@@ -1,9 +1,24 @@
 {
-    "plugins": [
-        "autocover",
-        "bibtex",
-        "theme-default"
-    ],
+   {
+    "title": "AutoDeskR: An R Interface to the AutoDesk API Platform",
+    "author": "Paul Govan",
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
+},
     "pluginsConfig": {
         "bibtex": {
             "bibliography": "bibliography.bib"
